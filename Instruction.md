@@ -28,7 +28,7 @@ git init
  git add  " название файла "
 ```
  для упрощения можно прописать 2 буквы названия и нажать кнопку Tab
-
+sdadsadadasdasdasd
 ## 3. Основные команды 
 
 ![photo osnov git](gitinfo.png)
